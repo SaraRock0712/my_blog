@@ -1,0 +1,40 @@
+#contact iframe
+{
+    width: 100%;
+}
+
+.travel_mainDiv img{
+    width: 100%;
+}
+
+.travel_mainDiv h5{
+    margin: 20px;
+}
+
+.travel_mainDiv h5, .travel_mainDiv p{
+    margin-left:20px;
+}
+
+.travel_mainDiv{
+    border: 1px solid lightgray;
+}
+
+.movie_head{
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+
+.movie_head i{
+    float: right;
+}
+
+.movie_text span{
+    color: gold;
+}
+
+.book{
+    margin-bottom: 20px;
+    font-family: 'Cinzel Decorative', cursive;
+}
